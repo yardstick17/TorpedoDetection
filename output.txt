@@ -1,0 +1,8 @@
+Target Name :  Ravager  , Co-ordinates :  ((26, 54), (35, 69))  , Degree of Confidence :  62.9629629698
+Target Name :  Ravager  , Co-ordinates :  ((68, 43), (77, 58))  , Degree of Confidence :  61.1111111183
+Target Name :  Ravager  , Co-ordinates :  ((34, 64), (43, 79))  , Degree of Confidence :  70.3703703759
+Target Name :  Ravager  , Co-ordinates :  ((26, 56), (35, 71))  , Degree of Confidence :  64.8148148213
+Target Name :  Ravager  , Co-ordinates :  ((26, 55), (35, 70))  , Degree of Confidence :  72.2222222274
+Target Name :  ProtonTorpedo  , Co-ordinates :  ((1, 0), (12, 12))  , Degree of Confidence :  70.2127659638
+Target Name :  ProtonTorpedo  , Co-ordinates :  ((79, 25), (90, 37))  , Degree of Confidence :  70.2127659638
+Target Name :  ProtonTorpedo  , Co-ordinates :  ((15, 29), (26, 41))  , Degree of Confidence :  63.8297872417
