@@ -16,9 +16,12 @@ Sample image of a proton torpedo:[Click here]
 On the Detector data, the pixels that should be “on” for a proton torpedo have been highlighted. You can see that more of the highlighted pixels are “on” in the highlighted area than in other areas of the image. You can use this difference to locate spaceships and torpedos in the Detector data.
 
 There are given 3 files - 
-1. DetectorOutput.blf: a 100 x 100 swath of raw data 
-2. ProtonTorpedo.blf: perfect image of a proton torpedo 
-3. Ravager.blf: perfect image of spaceship Ravager
+
+1.  DetectorOutput.blf: a 100 x 100 swath of raw data 
+
+2.  ProtonTorpedo.blf: perfect image of a proton torpedo 
+
+3.  Ravager.blf: perfect image of spaceship Ravager
 
 The program analyzes arbitrary-sized Detector images, returning a list of targets (spaceships and proton torpedos) found. 
 For each target, it includes the following –
